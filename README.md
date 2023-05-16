@@ -1,9 +1,13 @@
-# Rafael Guimarães 💻
+# Rafael Guimarães
 
-**`Full Stack Developer`**
+**`Full Stack Developer` 💻**
 
 I'm a software developer with a passion for building web applications that delivers a great user experience.
 
+## Languages and Tools
+
+<img align="left" width="30px" style="padding-right:10px" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" width="30px" style="padding-right:10px" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
 [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelc77&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
