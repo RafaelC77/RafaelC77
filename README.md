@@ -1,6 +1,6 @@
 # Rafael Guimarães 💻
 
-**Full Stack Developer**
+**`Full Stack Developer`**
 
 I'm a software developer with a passion for building web applications that delivers a great user experience.
 
