@@ -1,8 +1,8 @@
-### Hi there 👋
+# Rafael Guimarães 💻
 
-- 💻 I’m a Front-End Developer
-- 🌱 I’m currently learning ReactJS
-- 📫 How to reach me: rcarvalhobsb@gmail.com
+**Full Stack Developer**
+
+I'm a software developer with a passion for building web applications that delivers a great user experience.
 
 
 [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelc77&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
