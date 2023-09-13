@@ -2,7 +2,7 @@
 
 **`Full Stack Developer` 💻**
 
-I'm a software developer with a passion for building web applications that delivers a great user experience.
+I'm a front end developer with a passion for building web applications that delivers a great user experience.
 
 <div>
   <a href="mailto:rcarvalhobsb@gmail.com">
